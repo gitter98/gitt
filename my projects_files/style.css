@@ -1,0 +1,16 @@
+body{
+    font-family: verdana;
+    font-size: 2em;
+    border-radius: 100%;
+}
+
+#mycount{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+button{
+    text-align: center;
+    border-radius: 5px;
+}
